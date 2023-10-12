@@ -13,7 +13,7 @@ Write a program which calculates whether any given two numbers are multiples of 
 
 ### Question 2a
 
-Write a program that takes 2 integers from the user and then prints these integeres in an ascending order using a single if statement.
+Write a program that takes 2 integers from the user and then prints these integers in an ascending order using a single if statement.
 
 | Input | Output |
 | ----- | ------ |
@@ -22,7 +22,7 @@ Write a program that takes 2 integers from the user and then prints these intege
 
 ### Question 2b
 
-Write a program that takes 3 integers from the user and then prints these integeres in an ascending order
+Write a program that takes 3 integers from the user and then prints these integers in an ascending order
 
 | Input | Output |
 | ----- | ------ |
